@@ -1,0 +1,44 @@
+Updated January 3, 2015 by Marie Urmano
++ = uploaded to google drive
+
+added styles.css to css folder +
+added icons folder to ufwicse.org +
+updated the img folder +
+need to update bottom of the gallery for all webpages besides gallery, resources, and calendar pgs
+add calendar to each tab's "navigation" class- only ones that have it right now are the calendar and gallery pages
+
+QUESTION:
+who should manage the google calendar documenting all of WiCSE's events?
+
+------
+
+Updated January 5, 2015 by Monique Shotande
+
+renamed style.css in root folder to basic_style.css +
+added basic_styles.css to css folder +
+changed "href" attribute in the "link" tag on all pages from "style.css" to "css/basic_style.css" +
+added calendar to "navigation" bar of all pages
+
+Marie Urmano: need to update bottom of the gallery for all webpages besides gallery, resources, and calendar pgs --> I(Monique) want to discuss this briefly with you to make sure we agree on what to put in these footers
+
+need to create list of resources for resources.html
+
+ANSWER:
+who should manage the google calendar documenting all of WiCSE's events?
+-- we should be able to link the calendar to Sara's, so whenever she updates her WiCSE President calendar the one on the site will be updated too
+
+QUESTION:
+is the sytle.css you added to the css folder for the slider on the gallery page? If so you should rename it to something like "slider_style.css" or "galleryslider_style.css" so that it's clear what the stylesheet is for and so we don't mix up the sytle sheets.
+
+------
+
+Updated January 6, 2015 by Marie Urmano
+
+QUESTION:
+is the sytle.css you added to the css folder for the slider on the gallery page? If so you should rename it to something like "slider_style.css" or "galleryslider_style.css" so that it's clear what the stylesheet is for and so we don't mix up the sytle sheets.
+ANSWER: It is for the slider on the gallery. I was a little lazy when I added the style page, so I renamed it to galleryslider_style.css on the gallery html page.
+
+have updated the gallery page with the correct style name- it is now galleryslider_style.css in the css folder +
+
+-agreed that we need a list of resources for the site and that we should discuss what we want the footer to look like so it is consistent on all of the pages
+
